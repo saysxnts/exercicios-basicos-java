@@ -10,7 +10,8 @@ public class Exercicio16 {
 
         int totalCigarros = cigarrosPorDia * anosFumando * 365;
         int minutosPerdidos = totalCigarros * 10;
-        int diasPerdidos = minutosPerdidos / (24 * 60); // 1440 minutos em um dia
+        int diasPerdidos = minutosPerdidos / (24 * 60); 
+    
 
         System.out.println("Você perderá aproximadamente " + diasPerdidos + " dias de vida.");
         scanner.close();
