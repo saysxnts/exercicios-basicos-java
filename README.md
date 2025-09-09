@@ -90,7 +90,7 @@ Cada exercício é um programa autocontido em seu próprio arquivo `.java` (Ex: 
 
 Para o exercício 16 (Cálculo de dias de vida perdidos pelo cigarro), o fluxograma criado está abaixo:
 
-![Fluxograma Exercício 16](fluxograma-ex16.png)
+![Fluxograma Exercício 16](IMG_2535.jpeg)
 
 ## ✒️ Autor
 
